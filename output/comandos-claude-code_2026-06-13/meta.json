@@ -1,0 +1,27 @@
+{
+  "tema": "5 comandos de Claude Code para no quemar tu cuenta",
+  "titulo_final": "Si usas Claude Code, estás quemando tu cuenta sin notarlo",
+  "slug": "comandos-claude-code",
+  "fecha": "2026-06-13",
+  "audiencia": "tecnica",
+  "slides": 10,
+  "cta_type": "Sígueme para más",
+  "autoridad": false,
+  "foto_creador": "ninguna (sin foto en portada por pedido)",
+  "modelo": "openai/gpt-image-2/edit",
+  "proveedor": "Wavespeed.ai",
+  "config": {"aspect_ratio": "4:5", "resolution": "1k", "quality": "medium", "output_format": "png", "enable_sync_mode": true},
+  "branding": {"marca": "IA CON DANTE", "fondo": "#ffffff", "texto": "#000000", "resaltador": "#f8f32b", "indigo": "#2b2d42", "gris": "#8d99ae", "estilo": "doodle dibujado a mano"},
+  "anchors": {
+    "slide_01": "PORTADA.jpg (sin foto)",
+    "slide_02": "contenido04.jpg",
+    "slide_03": "contenido05.jpg",
+    "slide_04": "contenido05.jpg",
+    "slide_05": "contenido03.jpg",
+    "slide_06": "contenido02.jpg",
+    "slide_07": "contenido05.jpg",
+    "slide_08": "contenido04.jpg",
+    "slide_09": "contenido05.jpg",
+    "slide_10": "CTA_LLAMADOALAACCION.jpg"
+  }
+}

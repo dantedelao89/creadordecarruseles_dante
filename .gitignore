@@ -1,0 +1,12 @@
+# Secretos — NUNCA subir
+.env
+.env.local
+*.key
+
+# Sistema operativo
+.DS_Store
+**/.DS_Store
+
+# Temporales
+*.tmp
+*.log
