@@ -38,7 +38,7 @@ de forma profesional.
 | Carpeta / archivo | Para qué sirve |
 |---|---|
 | `referencias/` | Las **plantillas de estilo**. Una imagen por tipo de slide (portada, contenido, CTA). El sistema las copia. |
-| `fotos_creador/` | Tu **foto** para integrarla en la portada. |
+| `fotos_creador/` | Aquí **subes tu propia foto** si quieres aparecer en la portada (tu imagen NO se sube a GitHub). |
 | `output/{tema}_{fecha}/` | Aquí aparecen los **carruseles terminados**: imágenes + textos + datos. |
 | `.env` | Tu **clave secreta** de Wavespeed (NO se sube a GitHub). |
 | `.env.example` | Plantilla para saber qué clave necesitas. |
@@ -83,8 +83,11 @@ Conviene tener una referencia por tipo de slide:
 Mientras más limpias y consistentes sean tus referencias, mejor saldrán los resultados.
 
 ### 2. Tu foto
-Pon tu foto en `fotos_creador/`. Idealmente de medio cuerpo y con fondo que se pueda
-recortar fácil. Se usa solo en la portada (si tú quieres).
+Si quieres **aparecer en la portada**, sube **tu propia foto** a la carpeta `fotos_creador/`
+(idealmente de medio cuerpo y con fondo que se pueda recortar fácil). Se usa solo en la
+portada y **es opcional**: si no pones ninguna, los carruseles se generan igual, sin persona.
+
+> 🔒 Tu foto **no se sube a GitHub** (está protegida en `.gitignore`), queda solo en tu equipo.
 
 ### 3. Los colores y el logo
 La identidad actual usa esta paleta. Para cambiarla, solo dile a Claude los colores nuevos
